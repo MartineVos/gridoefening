@@ -152,8 +152,8 @@ De afbeelding mag op de eerste rij staan maar twee rijen innemen.
  .photo-image {
      object-fit: cover;
      width: 100%;
-     max-height: 100%;
-     vertical-align: top;
+     /* max-height: 100%; */
+     /* vertical-align: top; */
      grid-row: 1 / span 2;
  }
 
